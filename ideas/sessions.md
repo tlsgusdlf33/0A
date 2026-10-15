@@ -7,7 +7,7 @@
 
 | # | 프로젝트 | 세션 ID | 레포 | 비고 |
 |---|---|---|---|---|
-| 1 | 공공데이터 자동 갱신 정보 사이트 (+38 뉴스레터) | session_01XApXyxZUhsuDTGn6grp756 | tlsgusdlf33/A16 | |
+| 1 | 공공데이터 자동 갱신 정보 사이트 (+38 뉴스레터) | session_01XApXyxZUhsuDTGn6grp756 | tlsgusdlf33/1 (구 A16) | 레포 이름이 `1`로 바뀜 |
 | 4 | 가격 하락 알림 봇 | session_01JA63S4hsedTfh9dtJcN4Ar | tlsgusdlf33/A11 | |
 | 6 | 고정비 다이어트 자동 점검 | session_01WRpWVhGSXSrtjiRTpMjc5C | tlsgusdlf33/A12 | |
 | 7 | 디지털 템플릿 자동 판매 | session_015LtZzavWBftAKRLS5adMyS | tlsgusdlf33/7 | 같은 주제의 이전 세션 session_01WD2VwyZGVNsRt4XtJtPm2r (A13)도 있음 → 번호가 붙은 세션을 기준으로 함 |
@@ -37,6 +37,7 @@
 | 39 | 한국 결제·인증 보일러플레이트 | (아직 없음) | | 세션이 생기면 추가 |
 
 ## 병합 절차
+0. 사용자 확인 없이 자동 진행
 1. `list_sessions`로 대상 번호의 세션을 다시 확인하고 이 표를 갱신
 2. 대상 세션의 최근 대화(`list_events`)로 현재 진행 단계를 파악
 3. A10의 `plans/NN-*.md`(대상 계획 문서)에 병합 내용을 반영하고 푸시
