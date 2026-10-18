@@ -19,12 +19,12 @@
 | 16 | 한국 특화 데이터 API | session_01V4etFZYxvvSwsTFApwqSNf | tlsgusdlf33/16 | **→ 31번 세션으로 통합 (2026-10-16)** |
 | 17 | 예적금 금리 비교 알림 | session_01MMoHT7nuimk5VTBDuLBVWE | tlsgusdlf33/17 | |
 | 18 | 계약서·보증서 만료 알림 | session_019KvazUiB68w1aQHdQkbcyy | tlsgusdlf33/18 | |
-| 19 | 공모주 청약 분석 | session_01DtU8B2EKkKjEJ2xBFtuHFs | tlsgusdlf33/19 | **→ 25번 세션으로 통합 (2026-10-16)** |
+| 19 | 공모주 청약 분석 | session_01DtU8B2EKkKjEJ2xBFtuHFs | tlsgusdlf33/19 | **→ '자동 매매 프로그램' 세션으로 통합 (2026-10-18 변경, 이전: 25번)** |
 | 20 | 정부 창업 지원사업 매칭 | session_01TtYc2fKZfFjiujVeTykp6p | tlsgusdlf33/20 | "A20. 소설 자동 발행" 세션도 같은 레포(20)를 쓰고 있음 → 확인 필요 |
 | 21 | 안 쓰는 물건 현금화 | session_01GgXnU27nW9JGGVLgpiB1PR | tlsgusdlf33/21 | |
 | 23 | 카드 혜택 최적화 | session_01TzANLjVqCDTu7L6W3AkbBT | tlsgusdlf33/23 | **→ 6번 세션으로 통합 (2026-10-16)** |
 | 24 | 실손보험 미청구 찾기 | session_017K3qRYp6c8RZfKgn46etzo | tlsgusdlf33/24 | **→ 18번 세션으로 통합 (2026-10-16)** |
-| 25 | ETF 리밸런싱 + 세후 계좌 배치 | session_011HSccZ6SJq2GBorAsyz6yc | tlsgusdlf33/25 | |
+| 25 | ETF 리밸런싱 + 세후 계좌 배치 | session_011HSccZ6SJq2GBorAsyz6yc | tlsgusdlf33/25 | **→ '자동 매매 프로그램' 세션으로 통합 (2026-10-18)** |
 | 26 | 멀티 프로젝트 운영 대시보드 | session_01XuW3BuiuY9wsB55MosFix1 | tlsgusdlf33/26 | **→ 31번 세션으로 통합 (2026-10-16)** |
 | 27 | 온비드 공매 알림 | session_01AjjTo4yvp5hQgpB1B915mz | tlsgusdlf33/27 | **→ 21번 세션으로 통합 (2026-10-16)** |
 | 28 | 부업 수익 종소세 장부 | session_01CNyi8jZczbukPkQUyp77Av | tlsgusdlf33/28 | **→ 6번 세션으로 통합 (2026-10-16)** |
@@ -32,8 +32,8 @@
 | 30 | 맞춤 포스터 주문형 인쇄 | session_01NBLf5rNrGwtmqjNtaXUUKU | tlsgusdlf33/30 | **→ 39번 세션으로 통합 (2026-10-16)** |
 | 31 | 공통 스타터킷 & 보안 가드레일 | session_01KNqHZR66gGTFmTSsYgakgG | tlsgusdlf33/31 | |
 | 32 | 연금 수령·인출 시뮬레이터 | session_01NhHVmYqewJ4GfmJfRWFPE7 | tlsgusdlf33/32 | |
-| 33 | 보유 종목 공시 알림 | session_01UPnQ2UQwELsZMcZ4XxfqTZ | tlsgusdlf33/33 | **→ 25번 세션으로 통합 (2026-10-16)** |
-| 36 | 해외주식 양도세 기본공제 활용 | session_017NRgYpmyiFEhdMCAian24C | tlsgusdlf33/36 | **→ 25번 세션으로 통합 (2026-10-16)** |
+| 33 | 보유 종목 공시 알림 | session_01UPnQ2UQwELsZMcZ4XxfqTZ | tlsgusdlf33/33 | **→ '자동 매매 프로그램' 세션으로 통합 (2026-10-18 변경, 이전: 25번)** |
+| 36 | 해외주식 양도세 기본공제 활용 | session_017NRgYpmyiFEhdMCAian24C | tlsgusdlf33/36 | **→ '자동 매매 프로그램' 세션으로 통합 (2026-10-18 변경, 이전: 25번)** |
 | 39 | 한국 결제·인증 보일러플레이트 (G6 주: +7 +30) | session_016vLU7C8ttHE53XbrMvB4iH | tlsgusdlf33/39 | G6 주 프로젝트 |
 
 ## 시너지 묶음 주 세션 (2026-10-16 통합)
@@ -41,13 +41,13 @@
 |---|---|---|
 | G1 가계부 엔진 | 6 (session_01WRpWVhGSXSrtjiRTpMjc5C) | 12, 23, 28 |
 | G2 문서 추출·청구 | 18 (session_019KvazUiB68w1aQHdQkbcyy) | 24 |
-| G3 투자 비서 | 25 (session_011HSccZ6SJq2GBorAsyz6yc) | 33, 36, 19 |
+| G3 투자 비서 | 자동 매매 프로그램 (session_01SJs9QZhxaAjekNDuKbBaHn, 레포 autotrader) — 2026-10-18 변경 | 25, 33, 36, 19 |
 | G4 지역 데이터 플랫폼 | 1 (session_01XApXyxZUhsuDTGn6grp756) | 29 |
 | G5 시세·중고 거래 | 21 (session_01GgXnU27nW9JGGVLgpiB1PR) | 27 |
 | G6 판매 인프라 | 39 (session_016vLU7C8ttHE53XbrMvB4iH) | 7 (세션 2개: 7·A13), 30 |
 | G7 개발 기반 | 31 (session_01KNqHZR66gGTFmTSsYgakgG) | 26, 16 |
 
-흡수된 번호에 대한 병합·기능 추가 지시는 이제 **주 세션**으로 보냅니다.
+흡수된 번호에 대한 병합·기능 추가 지시는 이제 **주 세션**으로 보냅니다. G3(25·33·36·19)와 G3에 연결되는 17·32번 관련 지시는 '자동 매매 프로그램' 세션으로 보냅니다.
 
 전달 기록 (2026-10-16): 주 세션 7곳에 통합 지시, 흡수 세션 14곳(7번은 7·A13 두 세션)에 작업 정리·HANDOFF.md 작성 요청 — 모두 전달 완료(delivered). 사용량 한도에 걸린 세션은 한도가 풀린 뒤 처리.
 

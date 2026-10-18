@@ -1,6 +1,6 @@
 # 25. ETF 자산배분 리밸런싱 알림 + 세후 계좌 배치
 
-> **통합 묶음 G3 투자 비서 주 프로젝트 (2026-10-16)**: 25 + 33 + 36 + 19번을 이 세션에서 하나로 개발합니다. 흡수된 프로젝트의 계획: `33-holding-disclosure-alerts.md`, `36-overseas-stock-tax-harvest.md`, `19-ipo-subscription-analyzer.md`. 묶음 설명은 `ideas/synergy-groups.md`.
+> **통합됨 (2026-10-18)**: 묶음 G3 투자 비서(25 + 33 + 36 + 19)는 사용자 지시로 '자동 매매 프로그램' 세션(session_01SJs9QZhxaAjekNDuKbBaHn, 레포 tlsgusdlf33/autotrader)으로 통합됩니다. **메인은 기존 자동 매매 프로그램과 매매신호앱**(com.shin.signalalert)이고, 이 계획과 `33-…`, `36-…`, `19-…` 계획은 그 앱에 붙는 모듈 요구사항으로 유지됩니다. (2026-10-16에는 25번 세션이 주였으나 통합 작업 시작 전 변경)
 
 ## 최종 목표
 - **목표 비중에서 정한 허용 폭(예: ±5%p) 밖으로 벗어난 상태를 알림 후 3영업일 안에 해소**
