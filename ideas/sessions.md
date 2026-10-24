@@ -34,7 +34,7 @@
 | 32 | 연금 수령·인출 시뮬레이터 | session_01NhHVmYqewJ4GfmJfRWFPE7 | tlsgusdlf33/32 | |
 | 33 | 보유 종목 공시 알림 | session_01UPnQ2UQwELsZMcZ4XxfqTZ | tlsgusdlf33/33 | **→ '자동 매매 프로그램' 세션으로 통합 (2026-10-18 변경, 이전: 25번)** |
 | 36 | 해외주식 양도세 기본공제 활용 | session_017NRgYpmyiFEhdMCAian24C | tlsgusdlf33/36 | **→ '자동 매매 프로그램' 세션으로 통합 (2026-10-18 변경, 이전: 25번)** |
-| 49 | 안드로이드 앱 공통 출시 파이프라인 (단독, 시험 앱: A9 주말나들이) | session_017etHDsSHEoQWtjA7sjXVob | tlsgusdlf33/49 (+a9, 31 연결) | 2026-10-23 사용자 생성 |
+| 49 | 안드로이드 앱 공통 출시 파이프라인 (단독, 시험 앱: A9 주말나들이) | session_017etHDsSHEoQWtjA7sjXVob | tlsgusdlf33/49 (+a9, 31 연결) | 2026-10-23 사용자 생성 · **2026-10-24 작업 중단** (제목 끝 `-`로 바뀜, 새 앱 등록 설문 자동화 불가) |
 | 39 | 한국 결제·인증 보일러플레이트 (G6 주: +7 +30) | session_016vLU7C8ttHE53XbrMvB4iH | tlsgusdlf33/39 | G6 주 프로젝트 |
 
 ## 시너지 묶음 주 세션 (2026-10-16 통합)
