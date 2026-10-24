@@ -57,6 +57,18 @@
 인계 완료
 - 27번: 코드 없음(구현 전). HANDOFF.md → tlsgusdlf33/27 `claude/wonderful-ptolemy-jo2t5b` 브랜치. 추가 조건(APK 배포·Termux 제외, 앱 내 업데이터, 폰 main·PC 연동, 설정 자동화) 포함 → 21번 세션에 전달 (2026-10-16)
 
+## 전달 대기 (2026-10-25 사용자 지시 — 주간 사용량 절약, 지시가 있을 때 한꺼번에 전달)
+| 대상 세션 | 보낼 내용 |
+|---|---|
+| 10 (session_01G3SSQBLmjGtaQPXg6nv5Tr) | 43번 상표 감시 병합 (plans/43) |
+| 20 (session_01TtYc2fKZfFjiujVeTykp6p) | 44번 나라장터 용역 매칭 병합 (plans/44) |
+| 31 (session_01KNqHZR66gGTFmTSsYgakgG) | 45번 웹 접근성 점검, 54번 리뷰·비정상 종료 분류 병합 (plans/45, 54) + 10/16 G7 통합 재개 |
+| 1 (session_01XApXyxZUhsuDTGn6grp756) | 59번 유치원·어린이집 비교 병합 (plans/59) + G4 통합 재개 |
+| 18 (session_019KvazUiB68w1aQHdQkbcyy) | **사용자 승인 완료(2026-10-25)**: 24번 통합 진행 |
+| 21 (session_01GgXnU27nW9JGGVLgpiB1PR) | **사용자 승인 완료(2026-10-25)**: 27번 통합 진행 |
+| 6, 39 | 10/16 통합 작업 재개 (한도로 중단됨) |
+| 채택 후 제안 단계 | 61 → 16/31(G7), 62 → 1(G4), 63 → 21(G5) 보완 — 병합 지시 전 |
+
 ## 병합 절차
 0. 사용자 확인 없이 자동 진행
 1. `list_sessions`로 대상 번호의 세션을 다시 확인하고 이 표를 갱신
